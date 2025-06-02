@@ -5,8 +5,8 @@
 This repository contains my solution to an 8-question data analysis coding test.
 
 ## Contents
-- 📄 `answers.pdf`: Answer document with explanations and results
-- 📓 `stem_coding_test.ipynb`: Jupyter Notebook version of the code (optional)
+- 📄 `Sherzodbek Sadiev + STEM Coding Test.pdf`: Answer document with explanations and results
+- 📓 `la crime analysis.ipynb`: Jupyter Notebook version of the code
 
 ## Tools Used
 - Python
